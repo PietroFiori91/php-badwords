@@ -13,7 +13,7 @@
         <form action="./reciver.php" method="post">
             <div class="m-5">
                 <label class="d-flex justify-content-center p-2">Censura</label>
-                <textarea name="censura" rows="1" cols="50"></textarea>
+                <textarea name="censura" rows="2" cols="50"></textarea>
             </div>
 
             <div class="m-5">
