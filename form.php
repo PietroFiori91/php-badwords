@@ -21,6 +21,7 @@
                 <textarea name="testo" cols="80" rows="10"></textarea>
             </div>
             <input class="bg-success" type="submit" value="Invia">
+            <br>
 
         </form>
     </div>
